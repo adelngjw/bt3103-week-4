@@ -5,6 +5,7 @@
     <nav>
         <li><router-link to="/" exact>Home</router-link></li>
         <li><router-link to="/orders" exact>Orders</router-link></li>
+        <li><router-link to="/dashboard" exact>Dash Boards</router-link></li>
     </nav>
   </div>
     <router-view></router-view>
